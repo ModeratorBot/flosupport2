@@ -1,0 +1,14 @@
+{
+  "name": "floatsupport",
+  "version": "0.0.1",
+  "description": "Support bot for Floatlands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ModeratorBot",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
